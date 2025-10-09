@@ -9,7 +9,7 @@
 - **Nombre de la App:** Recetario
 - **Descripción:** Aplicación móvil para explorar, crear y gestionar recetas de cocina.
 - **Periodo/Fecha:** Octubre 2025
-- **URL del Repositorio:** `https://github.com/marianaquirinoayala80-coder/RecetarioApp.git`
+- **URL del Repositorio:** `https://github.com/marianaquirinoayala80-coder/recetario.git`
 
 
 ## 2. Descripción del Proyecto
