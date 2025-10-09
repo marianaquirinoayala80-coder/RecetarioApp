@@ -2,6 +2,10 @@
 
 ## 1. Identificación del Proyecto
 
+# Recetario - App de Gestión de Recetas
+
+## 1. Identificación del Proyecto
+
 - **Nombre de la App:** Recetario
 - **Descripción:** Aplicación móvil para explorar, crear y gestionar recetas de cocina.
 - **Periodo/Fecha:** Octubre 2025
@@ -113,7 +117,7 @@ recetario/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/marianaquirinoayala80-coder/RecetarioApp.git
+git clone https://github.com/marianaquirinoayala80-coder/recetario.git
 cd recetario
 
 # Instalar dependencias
