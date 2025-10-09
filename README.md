@@ -12,7 +12,7 @@ Este repositorio contiene una aplicación para gestionar recetas de cocina.
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/recetario.git
+    git clone https://github.com/marianaquirinoayala80-coder/recetario.git
     ```
 2. Ingresa al directorio:
     ```bash
