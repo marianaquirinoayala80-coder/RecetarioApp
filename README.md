@@ -5,7 +5,7 @@
 - **Nombre de la App:** Recetario
 - **Descripción:** Aplicación móvil para explorar, crear y gestionar recetas de cocina.
 - **Periodo/Fecha:** Octubre 2025
-- **URL del Repositorio:** `https://github.com/marianaquirinoayala80-coder/recetario.git`
+- **URL del Repositorio:** `https://github.com/marianaquirinoayala80-coder/RecetarioApp.git`
 
 
 ## 2. Descripción del Proyecto
@@ -113,7 +113,7 @@ recetario/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/marianaquirinoayala80-coder/recetario.git
+git clone https://github.com/marianaquirinoayala80-coder/RecetarioApp.git
 cd recetario
 
 # Instalar dependencias
@@ -262,6 +262,6 @@ rm -rf node_modules package-lock.json && npm install
 
 ---
 
-**Desarrollado por:** Equipo Recetario  
+**Desarrollado por:** Mariana Quirino Ayala
 **Última actualización:** 9 de octubre 2025  
 **Versión:** 1.0.0
