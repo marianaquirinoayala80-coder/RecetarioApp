@@ -195,6 +195,13 @@ npx expo start --web
 - Tap para navegar a detalle de receta
 - Búsqueda por nombre o ingrediente (si está habilitada)
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](docs/pantallabienvenida.jpg)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](docs/iniciosesion.jpg)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](docs/registrarse.jpg)
+
+
 ### Pantalla de Detalles
 
 - Ingredientes, pasos, porciones y dificultad
