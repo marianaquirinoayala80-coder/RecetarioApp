@@ -230,7 +230,7 @@ npx expo start --web
 - Botón "Entrar" que navega a la pantalla principal
 - Diseño limpio y acogedor
 
-![Pantalla de Bienvenida](docs/PantallaBienvenida.jpg)
+![Pantalla de Bienvenida](docs/PantallaWelcome.jpg)
 
 ### Pantalla Principal (Home/Inicio)
 
