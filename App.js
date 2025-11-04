@@ -1,14 +1,12 @@
 import React from "react";
 import { NavigationContainer } from "@react-navigation/native";
-import { NativeBaseProvider } from "native-base";
-import { HandlerNavigation } from "./src/navigations/HandlerNavigation";
+import HandlerNavigation from "./src/navigations/HandlerNavigation";
 
 export default function App() {
+  console.log("✅ App cargando NavigationContainer...");
   return (
-    <NativeBaseProvider>
-      <NavigationContainer>
-        <HandlerNavigation />
-      </NavigationContainer>
-    </NativeBaseProvider>
+    <NavigationContainer>
+      <HandlerNavigation />
+    </NavigationContainer>
   );
 }
