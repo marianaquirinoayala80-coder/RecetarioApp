@@ -230,7 +230,7 @@ npx expo start --web
 - Botón "Entrar" que navega a la pantalla principal
 - Diseño limpio y acogedor
 
-![Pantalla de Bienvenida](docs/PantallaWelcome.jpg)
+<img src="docs/PantallaWelcome.jpg" width="50%">
 
 ### Pantalla Principal (Home/Inicio)
 
@@ -240,7 +240,7 @@ npx expo start --web
 - **Navegación**: Tap en una receta para ver detalles
 - **Botón de Regreso**: Navega de vuelta a la pantalla de bienvenida
 
-![Pantalla de Inicio](docs/PantallaInicio.jpg)
+<img src="docs/PantallaInicio.jpg" width="50%">
 
 ### Pantalla de Búsqueda (Search/Buscador)
 
@@ -249,7 +249,7 @@ npx expo start --web
 - **Resultados en Tiempo Real**: Lista de recetas que coinciden con la búsqueda
 - **Navegación a Detalles**: Tap en resultado para ver detalles completos
 
-![Pantalla de Búsqueda](docs/PantallaBuscador.jpg)
+<img src="docs/PantallaBuscador.jpg" width="50%">
 
 ### Pantalla de Favoritos
 
@@ -258,7 +258,7 @@ npx expo start --web
 - **Persistencia**: Los favoritos se guardan localmente y persisten entre sesiones
 - **Vista Vacía**: Mensaje cuando no hay favoritos guardados
 
-![Pantalla de Favoritos](docs/PantallaFavoritos.jpg)
+<img src="docs/PantallaFavoritos.jpg" width="50%">
 
 ### Pantalla de Detalles (RecipeDetail)
 
@@ -268,7 +268,7 @@ npx expo start --web
 - **Metadatos**: Categoría, país y tags asociados
 - **Navegación**: Botón de regreso para volver a la pantalla anterior
 
-![Pantalla de Detalles](docs/PantallaDetalles.jpg)
+<img src="docs/PantallaDetalles.jpg" width="50%">
 
 ### Sistema de Favoritos
 

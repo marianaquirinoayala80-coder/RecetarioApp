@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "recetario",
+    "name": "Recetario",
     "slug": "recetario",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,10 +20,17 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.mariana.recetario",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a186049c-554a-4397-a6c1-df0885eed63b"
+      }
     }
   }
 }
